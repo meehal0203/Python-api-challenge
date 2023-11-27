@@ -1,7 +1,7 @@
 # python-api-challenge
 
 # Part 1: WeatherPy
-In this deliverable, I will create a Python script to visualize the weather of over 500 cities of varying distances from the equator. I have used the citipy Python libraryLinks to an external site and the OpenWeatherMap APILinks to an external site in order to create a representative model of weather across cities.
+In this project, I will create a Python script to visualize the weather of over 500 cities of varying distances from the equator. I have used the citipy Python libraryLinks to an external site and the OpenWeatherMap APILinks to an external site in order to create a representative model of weather across cities.
 I have used the OpenWeatherMap API to retrieve weather data from the cities list to create a series of scatter plots to showcase the following relationships:
 
 * Latitude vs. Temperature
